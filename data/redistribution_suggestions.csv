@@ -1,0 +1,22 @@
+ProductID,ProductName,FromStore,ToStore,SuggestedTransfer,CurrentStock_From,CurrentStock_To,ReorderLevel_To
+P1049,Muffin 299g,Store2,Store5,9,28,20,29
+P1464,Cake 351g,Store1,Store4,12,194,33,45
+P1464,Cake 351g,Store2,Store4,11,56,33,45
+P1459,Frozen Pizza 381g,Store1,Store3,8,185,31,39
+P1459,Frozen Pizza 381g,Store4,Store3,8,57,31,39
+P1308,Ice Cream 496g,Store3,Store4,11,180,12,24
+P1308,Ice Cream 496g,Store5,Store4,11,35,12,24
+P1188,Granola Bar 916g,Store5,Store2,3,86,40,46
+P1188,Granola Bar 916g,Store3,Store2,3,69,40,46
+P1124,Bread 855g,Store4,Store5,12,111,6,20
+P1124,Bread 855g,Store2,Store5,12,41,6,20
+P1490,Milk 551g,Store5,Store2,8,167,34,39
+P1490,Milk 551g,Store4,Store2,8,60,34,39
+P1016,Rice 852g,Store5,Store3,4,199,28,34
+P1016,Rice 852g,Store2,Store3,4,47,28,34
+P1201,Rice 895g,Store4,Store3,13,132,21,34
+P1201,Rice 895g,Store2,Store3,13,50,21,34
+P1047,Bread 672g,Store3,Store5,7,127,21,28
+P1047,Bread 672g,Store2,Store5,7,40,21,28
+P1048,Chips 250g,Store4,Store1,11,189,5,15
+P1050,Orange Juice 1L,Store4,Store3,11,85,9,20
