@@ -1,0 +1,85 @@
+ProductID,ProductName,Category,ForecastedDemand,CurrentStock,UnitsToOrder
+P1010,Yogurt 869g,Dairy,50,25,25
+P1013,Spinach 452g,Produce,50,20,30
+P1018,Beef 363g,Meat,50,37,13
+P1020,Beef 245g,Meat,50,10,40
+P1035,Veg Mix 329g,Frozen,50,36,14
+P1036,Muffin 511g,Bakery,50,40,10
+P1040,Muffin 646g,Bakery,50,33,17
+P1041,Yogurt 755g,Dairy,50,23,27
+P1042,Yogurt 617g,Dairy,50,39,11
+P1044,Pork 592g,Meat,50,21,29
+P1046,Banana 370g,Produce,50,17,33
+P1049,Muffin 299g,Bakery,50,20,30
+P1060,Chips 345g,Snacks,50,17,33
+P1066,Banana 672g,Produce,50,24,26
+P1080,Flour 485g,Pantry,50,16,34
+P1087,Soda 515g,Beverages,50,33,17
+P1088,Pasta 574g,Pantry,50,23,27
+P1089,Pork 721g,Meat,50,20,30
+P1090,Coffee 776g,Beverages,50,14,36
+P1096,Muffin 496g,Bakery,50,12,38
+P1101,Frozen Pizza 963g,Frozen,50,28,22
+P1116,Crackers 569g,Snacks,50,11,39
+P1126,Cake 320g,Bakery,50,39,11
+P1135,Cake 272g,Bakery,50,32,18
+P1142,Apple 958g,Produce,50,21,29
+P1145,Pork 443g,Meat,50,25,25
+P1149,Apple 861g,Produce,50,33,17
+P1154,Flour 381g,Pantry,50,25,25
+P1156,Flour 426g,Pantry,50,36,14
+P1162,Frozen Pizza 604g,Frozen,50,18,32
+P1163,Muffin 464g,Bakery,50,27,23
+P1179,Spinach 276g,Produce,50,35,15
+P1181,Muffin 943g,Bakery,50,36,14
+P1191,Crackers 901g,Snacks,50,23,27
+P1196,Bread 670g,Bakery,50,19,31
+P1197,Spinach 799g,Produce,50,28,22
+P1209,Coffee 333g,Beverages,50,10,40
+P1210,Cake 688g,Bakery,50,31,19
+P1217,Yogurt 469g,Dairy,50,33,17
+P1222,Beef 687g,Meat,50,34,16
+P1232,Coffee 505g,Beverages,50,23,27
+P1240,Soda 606g,Beverages,50,18,32
+P1252,Pork 437g,Meat,50,16,34
+P1254,Yogurt 311g,Dairy,50,20,30
+P1271,Flour 788g,Pantry,50,36,14
+P1277,Ice Cream 759g,Frozen,50,18,32
+P1278,Veg Mix 254g,Frozen,50,12,38
+P1282,Frozen Pizza 743g,Frozen,50,13,37
+P1284,Pork 490g,Meat,50,18,32
+P1290,Cheese 257g,Dairy,50,20,30
+P1291,Milk 918g,Dairy,50,13,37
+P1293,Spinach 827g,Produce,50,14,36
+P1298,Rice 232g,Pantry,50,25,25
+P1317,Beef 328g,Meat,50,30,20
+P1318,Frozen Pizza 267g,Frozen,50,12,38
+P1333,Muffin 243g,Bakery,50,15,35
+P1335,Cheese 746g,Dairy,50,38,12
+P1340,Juice 468g,Beverages,50,22,28
+P1350,Cake 845g,Bakery,50,20,30
+P1351,Crackers 782g,Snacks,50,29,21
+P1359,Pasta 316g,Pantry,50,40,10
+P1368,Juice 921g,Beverages,50,40,10
+P1372,Milk 874g,Dairy,50,14,36
+P1374,Crackers 464g,Snacks,50,23,27
+P1385,Veg Mix 841g,Frozen,50,36,14
+P1386,Flour 397g,Pantry,50,13,37
+P1390,Pork 799g,Meat,50,21,29
+P1396,Chicken 321g,Meat,50,19,31
+P1400,Bread 891g,Bakery,50,18,32
+P1408,Pork 885g,Meat,50,34,16
+P1412,Rice 484g,Pantry,50,20,30
+P1415,Juice 980g,Beverages,50,31,19
+P1416,Juice 358g,Beverages,50,13,37
+P1427,Beef 318g,Meat,50,38,12
+P1442,Crackers 292g,Snacks,50,29,21
+P1443,Yogurt 394g,Dairy,50,11,39
+P1445,Cheese 832g,Dairy,50,24,26
+P1450,Chips 831g,Snacks,50,23,27
+P1466,Apple 570g,Produce,50,14,36
+P1471,Beef 366g,Meat,50,26,24
+P1474,Chips 413g,Snacks,50,29,21
+P1475,Veg Mix 572g,Frozen,50,28,22
+P1476,Flour 839g,Pantry,50,31,19
+P1495,Crackers 527g,Snacks,50,22,28
