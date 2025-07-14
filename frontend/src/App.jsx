@@ -7,6 +7,8 @@ import ShelfLifeExpiry from "./components/Shelf_life_expiry";
 import EcoNotification from "./components/Econotification";
 import PredictiveRestocking from "./components/PredictiveRestocking";
 import VisionEvents from "./components/VisionEvents";
+import RedistributionCards from "./components/RedistributionTable";
+import AssignTask from "./components/Smart_staff";
 // Add other pages if needed
 
 const App = () => {
@@ -18,6 +20,9 @@ const App = () => {
       <Route path="/eco" element={<EcoNotification />} />
       <Route path="/restocking" element={<PredictiveRestocking />} />
       <Route path="/vision-events" element={<VisionEvents />} />
+      <Route path="/redistribution" element={<RedistributionCards />} />
+       <Route path="/assign-task" element={<AssignTask />} /> 
+
     </Routes>
   );
 };

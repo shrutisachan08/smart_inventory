@@ -2,16 +2,17 @@
 
 import React from "react";
 import { Link } from "react-router-dom";
-import { BarChart3, RefreshCcw, Leaf, Eye } from "lucide-react";
+import { BarChart3, RefreshCcw, Leaf, Eye, MapPin } from "lucide-react";
+
 
 const Dashboard = () => {
   const cards = [
    { 
-    title: "Shelf Life & Expiry",
-    icon: <BarChart3 className="text-blue-400" size={32} />,
-    description: "Monitor products nearing expiry in real-time.",
-    link: "/shelf-life-expiry",
-    color: "blue-400"
+     title: "Shelf Life & Expiry",
+     icon: <BarChart3 className="text-blue-400" size={32} />,
+     description: "Monitor products nearing expiry in real-time.",
+     link: "/shelf-life-expiry",
+     color: "blue-400"
     },
     {
       title: "Predictive Restocking",
@@ -33,7 +34,22 @@ const Dashboard = () => {
       description: "Get alerts from shelf vision surveillance.",
       link: "/vision-events",
       color: "pink-400"
+    },
+    {
+     title: "Inventory Redistribution",
+     icon: <RefreshCcw className="text-yellow-400" size={32} />,
+     description: "Balance overstocked and understocked items across stores.",
+     link: "/redistribution",
+     color: "yellow-400"
+    },
+    {
+      title: "Smart Task Assigner",
+      icon: <MapPin className="text-cyan-400" size={32} />,
+      description: "Assign tasks to nearest staff using geo-location.",
+      link: "/assign-task",
+      color: "cyan-400"
     }
+
   ];
 
   return (

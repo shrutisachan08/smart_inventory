@@ -23,6 +23,16 @@ const Home = () => {
       howToUse: "Simulate camera-based events like 'item picked' or 'suspicious activity'. Alerts are logged instantly.",
       benefits: "Improves surveillance, boosts shelf activity tracking, enhances store security.",
     },
+    {
+      title: "🧭 Smart Staff Routing",
+      howToUse: "System fetches pending tasks & assigns routes to staff within same shift using aisle data.",
+      benefits: "Improves efficiency, reduces idle time, smart distribution of workload.",
+    },
+    {
+      title: "🛰️ Task Assignment via Location",
+      howToUse: "Input task coordinates & description. Nearest available staff is auto-assigned in real-time.",
+      benefits: "Leverages real-time location, improves responsiveness, ensures faster issue resolution.",
+    },
   ];
 
   return (
@@ -36,7 +46,7 @@ const Home = () => {
         </p>
       </div>
 
-      {/* Feature Cards - Horizontal, Full Width */}
+      {/* Feature Cards */}
       <div className="space-y-8 max-w-4xl mx-auto">
         {features.map((feature, idx) => (
           <div
@@ -54,7 +64,7 @@ const Home = () => {
         ))}
       </div>
 
-      {/* Launch Dashboard Button */}
+      {/* Dashboard Launch Button */}
       <div className="text-center mt-16">
         <Link
           to="/dashboard"
@@ -68,4 +78,3 @@ const Home = () => {
 };
 
 export default Home;
-
