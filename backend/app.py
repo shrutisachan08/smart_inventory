@@ -3,8 +3,10 @@ from backend.routes.inventory_routes import inventory_bp  # Existing route (Feat
 from backend.routes.restocking import restocking_bp 
 from backend.routes.eco_notifications import eco_bp# ✅ New route (Feature 2)
 from backend.routes.vision_routes import vision_bp
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 
 # Register blueprints
 app.register_blueprint(inventory_bp, url_prefix='/api')

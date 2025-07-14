@@ -1,0 +1,679 @@
+{
+    "PurchaseOrderNumber": "PO-20250714023915",
+    "Date": "2025-07-14",
+    "SupplierID": "WalmartAutoAI",
+    "Items": [
+        {
+            "ProductID": "P1010",
+            "ProductName": "Yogurt 869g",
+            "Category": "Dairy",
+            "ForecastedDemand": 50,
+            "CurrentStock": 25,
+            "UnitsToOrder": 25
+        },
+        {
+            "ProductID": "P1013",
+            "ProductName": "Spinach 452g",
+            "Category": "Produce",
+            "ForecastedDemand": 50,
+            "CurrentStock": 20,
+            "UnitsToOrder": 30
+        },
+        {
+            "ProductID": "P1018",
+            "ProductName": "Beef 363g",
+            "Category": "Meat",
+            "ForecastedDemand": 50,
+            "CurrentStock": 37,
+            "UnitsToOrder": 13
+        },
+        {
+            "ProductID": "P1020",
+            "ProductName": "Beef 245g",
+            "Category": "Meat",
+            "ForecastedDemand": 50,
+            "CurrentStock": 10,
+            "UnitsToOrder": 40
+        },
+        {
+            "ProductID": "P1035",
+            "ProductName": "Veg Mix 329g",
+            "Category": "Frozen",
+            "ForecastedDemand": 50,
+            "CurrentStock": 36,
+            "UnitsToOrder": 14
+        },
+        {
+            "ProductID": "P1036",
+            "ProductName": "Muffin 511g",
+            "Category": "Bakery",
+            "ForecastedDemand": 50,
+            "CurrentStock": 40,
+            "UnitsToOrder": 10
+        },
+        {
+            "ProductID": "P1040",
+            "ProductName": "Muffin 646g",
+            "Category": "Bakery",
+            "ForecastedDemand": 50,
+            "CurrentStock": 33,
+            "UnitsToOrder": 17
+        },
+        {
+            "ProductID": "P1041",
+            "ProductName": "Yogurt 755g",
+            "Category": "Dairy",
+            "ForecastedDemand": 50,
+            "CurrentStock": 23,
+            "UnitsToOrder": 27
+        },
+        {
+            "ProductID": "P1042",
+            "ProductName": "Yogurt 617g",
+            "Category": "Dairy",
+            "ForecastedDemand": 50,
+            "CurrentStock": 39,
+            "UnitsToOrder": 11
+        },
+        {
+            "ProductID": "P1044",
+            "ProductName": "Pork 592g",
+            "Category": "Meat",
+            "ForecastedDemand": 50,
+            "CurrentStock": 21,
+            "UnitsToOrder": 29
+        },
+        {
+            "ProductID": "P1046",
+            "ProductName": "Banana 370g",
+            "Category": "Produce",
+            "ForecastedDemand": 50,
+            "CurrentStock": 17,
+            "UnitsToOrder": 33
+        },
+        {
+            "ProductID": "P1049",
+            "ProductName": "Muffin 299g",
+            "Category": "Bakery",
+            "ForecastedDemand": 50,
+            "CurrentStock": 20,
+            "UnitsToOrder": 30
+        },
+        {
+            "ProductID": "P1060",
+            "ProductName": "Chips 345g",
+            "Category": "Snacks",
+            "ForecastedDemand": 50,
+            "CurrentStock": 17,
+            "UnitsToOrder": 33
+        },
+        {
+            "ProductID": "P1066",
+            "ProductName": "Banana 672g",
+            "Category": "Produce",
+            "ForecastedDemand": 50,
+            "CurrentStock": 24,
+            "UnitsToOrder": 26
+        },
+        {
+            "ProductID": "P1080",
+            "ProductName": "Flour 485g",
+            "Category": "Pantry",
+            "ForecastedDemand": 50,
+            "CurrentStock": 16,
+            "UnitsToOrder": 34
+        },
+        {
+            "ProductID": "P1087",
+            "ProductName": "Soda 515g",
+            "Category": "Beverages",
+            "ForecastedDemand": 50,
+            "CurrentStock": 33,
+            "UnitsToOrder": 17
+        },
+        {
+            "ProductID": "P1088",
+            "ProductName": "Pasta 574g",
+            "Category": "Pantry",
+            "ForecastedDemand": 50,
+            "CurrentStock": 23,
+            "UnitsToOrder": 27
+        },
+        {
+            "ProductID": "P1089",
+            "ProductName": "Pork 721g",
+            "Category": "Meat",
+            "ForecastedDemand": 50,
+            "CurrentStock": 20,
+            "UnitsToOrder": 30
+        },
+        {
+            "ProductID": "P1090",
+            "ProductName": "Coffee 776g",
+            "Category": "Beverages",
+            "ForecastedDemand": 50,
+            "CurrentStock": 14,
+            "UnitsToOrder": 36
+        },
+        {
+            "ProductID": "P1096",
+            "ProductName": "Muffin 496g",
+            "Category": "Bakery",
+            "ForecastedDemand": 50,
+            "CurrentStock": 12,
+            "UnitsToOrder": 38
+        },
+        {
+            "ProductID": "P1101",
+            "ProductName": "Frozen Pizza 963g",
+            "Category": "Frozen",
+            "ForecastedDemand": 50,
+            "CurrentStock": 28,
+            "UnitsToOrder": 22
+        },
+        {
+            "ProductID": "P1116",
+            "ProductName": "Crackers 569g",
+            "Category": "Snacks",
+            "ForecastedDemand": 50,
+            "CurrentStock": 11,
+            "UnitsToOrder": 39
+        },
+        {
+            "ProductID": "P1126",
+            "ProductName": "Cake 320g",
+            "Category": "Bakery",
+            "ForecastedDemand": 50,
+            "CurrentStock": 39,
+            "UnitsToOrder": 11
+        },
+        {
+            "ProductID": "P1135",
+            "ProductName": "Cake 272g",
+            "Category": "Bakery",
+            "ForecastedDemand": 50,
+            "CurrentStock": 32,
+            "UnitsToOrder": 18
+        },
+        {
+            "ProductID": "P1142",
+            "ProductName": "Apple 958g",
+            "Category": "Produce",
+            "ForecastedDemand": 50,
+            "CurrentStock": 21,
+            "UnitsToOrder": 29
+        },
+        {
+            "ProductID": "P1145",
+            "ProductName": "Pork 443g",
+            "Category": "Meat",
+            "ForecastedDemand": 50,
+            "CurrentStock": 25,
+            "UnitsToOrder": 25
+        },
+        {
+            "ProductID": "P1149",
+            "ProductName": "Apple 861g",
+            "Category": "Produce",
+            "ForecastedDemand": 50,
+            "CurrentStock": 33,
+            "UnitsToOrder": 17
+        },
+        {
+            "ProductID": "P1154",
+            "ProductName": "Flour 381g",
+            "Category": "Pantry",
+            "ForecastedDemand": 50,
+            "CurrentStock": 25,
+            "UnitsToOrder": 25
+        },
+        {
+            "ProductID": "P1156",
+            "ProductName": "Flour 426g",
+            "Category": "Pantry",
+            "ForecastedDemand": 50,
+            "CurrentStock": 36,
+            "UnitsToOrder": 14
+        },
+        {
+            "ProductID": "P1162",
+            "ProductName": "Frozen Pizza 604g",
+            "Category": "Frozen",
+            "ForecastedDemand": 50,
+            "CurrentStock": 18,
+            "UnitsToOrder": 32
+        },
+        {
+            "ProductID": "P1163",
+            "ProductName": "Muffin 464g",
+            "Category": "Bakery",
+            "ForecastedDemand": 50,
+            "CurrentStock": 27,
+            "UnitsToOrder": 23
+        },
+        {
+            "ProductID": "P1179",
+            "ProductName": "Spinach 276g",
+            "Category": "Produce",
+            "ForecastedDemand": 50,
+            "CurrentStock": 35,
+            "UnitsToOrder": 15
+        },
+        {
+            "ProductID": "P1181",
+            "ProductName": "Muffin 943g",
+            "Category": "Bakery",
+            "ForecastedDemand": 50,
+            "CurrentStock": 36,
+            "UnitsToOrder": 14
+        },
+        {
+            "ProductID": "P1191",
+            "ProductName": "Crackers 901g",
+            "Category": "Snacks",
+            "ForecastedDemand": 50,
+            "CurrentStock": 23,
+            "UnitsToOrder": 27
+        },
+        {
+            "ProductID": "P1196",
+            "ProductName": "Bread 670g",
+            "Category": "Bakery",
+            "ForecastedDemand": 50,
+            "CurrentStock": 19,
+            "UnitsToOrder": 31
+        },
+        {
+            "ProductID": "P1197",
+            "ProductName": "Spinach 799g",
+            "Category": "Produce",
+            "ForecastedDemand": 50,
+            "CurrentStock": 28,
+            "UnitsToOrder": 22
+        },
+        {
+            "ProductID": "P1209",
+            "ProductName": "Coffee 333g",
+            "Category": "Beverages",
+            "ForecastedDemand": 50,
+            "CurrentStock": 10,
+            "UnitsToOrder": 40
+        },
+        {
+            "ProductID": "P1210",
+            "ProductName": "Cake 688g",
+            "Category": "Bakery",
+            "ForecastedDemand": 50,
+            "CurrentStock": 31,
+            "UnitsToOrder": 19
+        },
+        {
+            "ProductID": "P1217",
+            "ProductName": "Yogurt 469g",
+            "Category": "Dairy",
+            "ForecastedDemand": 50,
+            "CurrentStock": 33,
+            "UnitsToOrder": 17
+        },
+        {
+            "ProductID": "P1222",
+            "ProductName": "Beef 687g",
+            "Category": "Meat",
+            "ForecastedDemand": 50,
+            "CurrentStock": 34,
+            "UnitsToOrder": 16
+        },
+        {
+            "ProductID": "P1232",
+            "ProductName": "Coffee 505g",
+            "Category": "Beverages",
+            "ForecastedDemand": 50,
+            "CurrentStock": 23,
+            "UnitsToOrder": 27
+        },
+        {
+            "ProductID": "P1240",
+            "ProductName": "Soda 606g",
+            "Category": "Beverages",
+            "ForecastedDemand": 50,
+            "CurrentStock": 18,
+            "UnitsToOrder": 32
+        },
+        {
+            "ProductID": "P1252",
+            "ProductName": "Pork 437g",
+            "Category": "Meat",
+            "ForecastedDemand": 50,
+            "CurrentStock": 16,
+            "UnitsToOrder": 34
+        },
+        {
+            "ProductID": "P1254",
+            "ProductName": "Yogurt 311g",
+            "Category": "Dairy",
+            "ForecastedDemand": 50,
+            "CurrentStock": 20,
+            "UnitsToOrder": 30
+        },
+        {
+            "ProductID": "P1271",
+            "ProductName": "Flour 788g",
+            "Category": "Pantry",
+            "ForecastedDemand": 50,
+            "CurrentStock": 36,
+            "UnitsToOrder": 14
+        },
+        {
+            "ProductID": "P1277",
+            "ProductName": "Ice Cream 759g",
+            "Category": "Frozen",
+            "ForecastedDemand": 50,
+            "CurrentStock": 18,
+            "UnitsToOrder": 32
+        },
+        {
+            "ProductID": "P1278",
+            "ProductName": "Veg Mix 254g",
+            "Category": "Frozen",
+            "ForecastedDemand": 50,
+            "CurrentStock": 12,
+            "UnitsToOrder": 38
+        },
+        {
+            "ProductID": "P1282",
+            "ProductName": "Frozen Pizza 743g",
+            "Category": "Frozen",
+            "ForecastedDemand": 50,
+            "CurrentStock": 13,
+            "UnitsToOrder": 37
+        },
+        {
+            "ProductID": "P1284",
+            "ProductName": "Pork 490g",
+            "Category": "Meat",
+            "ForecastedDemand": 50,
+            "CurrentStock": 18,
+            "UnitsToOrder": 32
+        },
+        {
+            "ProductID": "P1290",
+            "ProductName": "Cheese 257g",
+            "Category": "Dairy",
+            "ForecastedDemand": 50,
+            "CurrentStock": 20,
+            "UnitsToOrder": 30
+        },
+        {
+            "ProductID": "P1291",
+            "ProductName": "Milk 918g",
+            "Category": "Dairy",
+            "ForecastedDemand": 50,
+            "CurrentStock": 13,
+            "UnitsToOrder": 37
+        },
+        {
+            "ProductID": "P1293",
+            "ProductName": "Spinach 827g",
+            "Category": "Produce",
+            "ForecastedDemand": 50,
+            "CurrentStock": 14,
+            "UnitsToOrder": 36
+        },
+        {
+            "ProductID": "P1298",
+            "ProductName": "Rice 232g",
+            "Category": "Pantry",
+            "ForecastedDemand": 50,
+            "CurrentStock": 25,
+            "UnitsToOrder": 25
+        },
+        {
+            "ProductID": "P1317",
+            "ProductName": "Beef 328g",
+            "Category": "Meat",
+            "ForecastedDemand": 50,
+            "CurrentStock": 30,
+            "UnitsToOrder": 20
+        },
+        {
+            "ProductID": "P1318",
+            "ProductName": "Frozen Pizza 267g",
+            "Category": "Frozen",
+            "ForecastedDemand": 50,
+            "CurrentStock": 12,
+            "UnitsToOrder": 38
+        },
+        {
+            "ProductID": "P1333",
+            "ProductName": "Muffin 243g",
+            "Category": "Bakery",
+            "ForecastedDemand": 50,
+            "CurrentStock": 15,
+            "UnitsToOrder": 35
+        },
+        {
+            "ProductID": "P1335",
+            "ProductName": "Cheese 746g",
+            "Category": "Dairy",
+            "ForecastedDemand": 50,
+            "CurrentStock": 38,
+            "UnitsToOrder": 12
+        },
+        {
+            "ProductID": "P1340",
+            "ProductName": "Juice 468g",
+            "Category": "Beverages",
+            "ForecastedDemand": 50,
+            "CurrentStock": 22,
+            "UnitsToOrder": 28
+        },
+        {
+            "ProductID": "P1350",
+            "ProductName": "Cake 845g",
+            "Category": "Bakery",
+            "ForecastedDemand": 50,
+            "CurrentStock": 20,
+            "UnitsToOrder": 30
+        },
+        {
+            "ProductID": "P1351",
+            "ProductName": "Crackers 782g",
+            "Category": "Snacks",
+            "ForecastedDemand": 50,
+            "CurrentStock": 29,
+            "UnitsToOrder": 21
+        },
+        {
+            "ProductID": "P1359",
+            "ProductName": "Pasta 316g",
+            "Category": "Pantry",
+            "ForecastedDemand": 50,
+            "CurrentStock": 40,
+            "UnitsToOrder": 10
+        },
+        {
+            "ProductID": "P1368",
+            "ProductName": "Juice 921g",
+            "Category": "Beverages",
+            "ForecastedDemand": 50,
+            "CurrentStock": 40,
+            "UnitsToOrder": 10
+        },
+        {
+            "ProductID": "P1372",
+            "ProductName": "Milk 874g",
+            "Category": "Dairy",
+            "ForecastedDemand": 50,
+            "CurrentStock": 14,
+            "UnitsToOrder": 36
+        },
+        {
+            "ProductID": "P1374",
+            "ProductName": "Crackers 464g",
+            "Category": "Snacks",
+            "ForecastedDemand": 50,
+            "CurrentStock": 23,
+            "UnitsToOrder": 27
+        },
+        {
+            "ProductID": "P1385",
+            "ProductName": "Veg Mix 841g",
+            "Category": "Frozen",
+            "ForecastedDemand": 50,
+            "CurrentStock": 36,
+            "UnitsToOrder": 14
+        },
+        {
+            "ProductID": "P1386",
+            "ProductName": "Flour 397g",
+            "Category": "Pantry",
+            "ForecastedDemand": 50,
+            "CurrentStock": 13,
+            "UnitsToOrder": 37
+        },
+        {
+            "ProductID": "P1390",
+            "ProductName": "Pork 799g",
+            "Category": "Meat",
+            "ForecastedDemand": 50,
+            "CurrentStock": 21,
+            "UnitsToOrder": 29
+        },
+        {
+            "ProductID": "P1396",
+            "ProductName": "Chicken 321g",
+            "Category": "Meat",
+            "ForecastedDemand": 50,
+            "CurrentStock": 19,
+            "UnitsToOrder": 31
+        },
+        {
+            "ProductID": "P1400",
+            "ProductName": "Bread 891g",
+            "Category": "Bakery",
+            "ForecastedDemand": 50,
+            "CurrentStock": 18,
+            "UnitsToOrder": 32
+        },
+        {
+            "ProductID": "P1408",
+            "ProductName": "Pork 885g",
+            "Category": "Meat",
+            "ForecastedDemand": 50,
+            "CurrentStock": 34,
+            "UnitsToOrder": 16
+        },
+        {
+            "ProductID": "P1412",
+            "ProductName": "Rice 484g",
+            "Category": "Pantry",
+            "ForecastedDemand": 50,
+            "CurrentStock": 20,
+            "UnitsToOrder": 30
+        },
+        {
+            "ProductID": "P1415",
+            "ProductName": "Juice 980g",
+            "Category": "Beverages",
+            "ForecastedDemand": 50,
+            "CurrentStock": 31,
+            "UnitsToOrder": 19
+        },
+        {
+            "ProductID": "P1416",
+            "ProductName": "Juice 358g",
+            "Category": "Beverages",
+            "ForecastedDemand": 50,
+            "CurrentStock": 13,
+            "UnitsToOrder": 37
+        },
+        {
+            "ProductID": "P1427",
+            "ProductName": "Beef 318g",
+            "Category": "Meat",
+            "ForecastedDemand": 50,
+            "CurrentStock": 38,
+            "UnitsToOrder": 12
+        },
+        {
+            "ProductID": "P1442",
+            "ProductName": "Crackers 292g",
+            "Category": "Snacks",
+            "ForecastedDemand": 50,
+            "CurrentStock": 29,
+            "UnitsToOrder": 21
+        },
+        {
+            "ProductID": "P1443",
+            "ProductName": "Yogurt 394g",
+            "Category": "Dairy",
+            "ForecastedDemand": 50,
+            "CurrentStock": 11,
+            "UnitsToOrder": 39
+        },
+        {
+            "ProductID": "P1445",
+            "ProductName": "Cheese 832g",
+            "Category": "Dairy",
+            "ForecastedDemand": 50,
+            "CurrentStock": 24,
+            "UnitsToOrder": 26
+        },
+        {
+            "ProductID": "P1450",
+            "ProductName": "Chips 831g",
+            "Category": "Snacks",
+            "ForecastedDemand": 50,
+            "CurrentStock": 23,
+            "UnitsToOrder": 27
+        },
+        {
+            "ProductID": "P1466",
+            "ProductName": "Apple 570g",
+            "Category": "Produce",
+            "ForecastedDemand": 50,
+            "CurrentStock": 14,
+            "UnitsToOrder": 36
+        },
+        {
+            "ProductID": "P1471",
+            "ProductName": "Beef 366g",
+            "Category": "Meat",
+            "ForecastedDemand": 50,
+            "CurrentStock": 26,
+            "UnitsToOrder": 24
+        },
+        {
+            "ProductID": "P1474",
+            "ProductName": "Chips 413g",
+            "Category": "Snacks",
+            "ForecastedDemand": 50,
+            "CurrentStock": 29,
+            "UnitsToOrder": 21
+        },
+        {
+            "ProductID": "P1475",
+            "ProductName": "Veg Mix 572g",
+            "Category": "Frozen",
+            "ForecastedDemand": 50,
+            "CurrentStock": 28,
+            "UnitsToOrder": 22
+        },
+        {
+            "ProductID": "P1476",
+            "ProductName": "Flour 839g",
+            "Category": "Pantry",
+            "ForecastedDemand": 50,
+            "CurrentStock": 31,
+            "UnitsToOrder": 19
+        },
+        {
+            "ProductID": "P1495",
+            "ProductName": "Crackers 527g",
+            "Category": "Snacks",
+            "ForecastedDemand": 50,
+            "CurrentStock": 22,
+            "UnitsToOrder": 28
+        }
+    ]
+}

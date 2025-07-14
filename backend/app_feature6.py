@@ -3,8 +3,10 @@ import pandas as pd
 from pymongo import MongoClient
 from datetime import datetime
 from math import radians, sin, cos, sqrt, atan2
+from flask_cors import CORS 
 
 app = Flask(__name__)
+CORS(app)
 
 def haversine(lat1, lon1, lat2, lon2):
     R = 6371
@@ -44,7 +46,7 @@ def assign_task():
             return render_template_string(form_html, result={"error": "Invalid input"})
 
         client = MongoClient("mongodb://localhost:27017")
-        db = client["walmart_sparkathon"]
+        db = client["Inventory"]
         staff_col = db["staff"]
         staff_df = pd.DataFrame(list(staff_col.find()))
         available_staff = staff_df[staff_df["CurrentTask"].isna()]
@@ -78,4 +80,4 @@ def assign_task():
     return render_template_string(form_html, result=result)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True,port=5002)
