@@ -10,13 +10,33 @@ __pycache__/
 *.pyd
 env/
 .venv/
+.env
 
-# System
-.DS_Store
+# React
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+coverage/
+*.tgz
+.cache/
+.eslintcache
 
-# IDE
+# VSCode and IDEs
 .vscode/
 .idea/
 
-# Log files
+# macOS
+.DS_Store
+
+# System Files
+Thumbs.db
+
+# Logs
 *.log
+
+# Other
+*.zip
+*.tar
+*.bak
+*.tmp
